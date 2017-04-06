@@ -1,0 +1,98 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:pb="clr-namespace:Microsoft.Expression.Prototyping.Behavior;assembly=Microsoft.Expression.Prototyping.Interactivity"
+	x:Class="SilverlightPrototype1Screens.Screen_1_1"
+	Width="899" Height="460">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<Image Source="sketches/Снимок1323532авва.jpg" Stretch="Fill"/>
+		<Rectangle Fill="White" Stroke="Black" Height="34" HorizontalAlignment="Right" VerticalAlignment="Top" Width="41" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateBackAction/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="#FF06880E" Stroke="Black" Height="25" HorizontalAlignment="Right" Margin="0,98,48,0" VerticalAlignment="Top" Width="102" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightPrototype1Screens.Screen_1_2"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="#FF293B7A" Stroke="Black" Height="23" HorizontalAlignment="Right" Margin="0,123,48,0" VerticalAlignment="Top" Width="102" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightPrototype1Screens.Screen_2_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="#FF844818" Stroke="Black" Height="22" HorizontalAlignment="Right" Margin="0,146,48,0" VerticalAlignment="Top" Width="102" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightPrototype1Screens.Screen_3_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="#FF080A20" Stroke="Black" Height="24" HorizontalAlignment="Right" Margin="0,168,48,0" VerticalAlignment="Top" Width="102" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightPrototype1Screens.Screen_1_2"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="#FF64186A" Stroke="Black" HorizontalAlignment="Right" Margin="0,192,48,0" Width="102" Height="23" VerticalAlignment="Top" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightPrototype1Screens.Screen_2_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="#FF9B48DC" Stroke="Black" HorizontalAlignment="Right" Margin="0,215,48,223" Width="102" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightPrototype1Screens.Screen_3_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="#FF263B59" Stroke="Black" Height="35" HorizontalAlignment="Right" Margin="0,0,48,163" VerticalAlignment="Bottom" Width="102" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightPrototype1Screens.Screen_2_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="#FF2C1041" Stroke="Black" HorizontalAlignment="Right" Margin="0,0,48,198" Width="102" Height="25" VerticalAlignment="Bottom" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightPrototype1Screens.Screen_1_2"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="#FF16DE63" Stroke="Black" Height="21" HorizontalAlignment="Right" Margin="0,0,48,96" VerticalAlignment="Bottom" Width="102" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightPrototype1Screens.Screen_2_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="#FFA78E1E" Stroke="Black" Height="23" HorizontalAlignment="Right" Margin="0,0,48,140" VerticalAlignment="Bottom" Width="102" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightPrototype1Screens.Screen_3_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+		<Rectangle Fill="#FFF6CB0C" Stroke="Black" Height="23" HorizontalAlignment="Right" Margin="0,0,48,117" VerticalAlignment="Bottom" Width="102" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateToScreenAction TargetScreen="SilverlightPrototype1Screens.Screen_1_2"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+	</Grid>
+</UserControl>

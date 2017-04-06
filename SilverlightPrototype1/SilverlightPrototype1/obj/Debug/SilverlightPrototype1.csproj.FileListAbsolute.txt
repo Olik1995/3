@@ -1,0 +1,236 @@
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\AppManifest.xaml
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\favicon.ico
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.pdb
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.xap
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\TestPage.html
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.pdb
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.xml
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\App.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.g.resources
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.pdb
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\XapCacheFile.xml
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\AppManifest.xaml
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\favicon.ico
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.pdb
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.xap
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\TestPage.html
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Interactions.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Interactivity.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Xml.Serialization.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.Navigation.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.pdb
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Xml.Serialization.xml
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.xml
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Interactivity.xml
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.Navigation.xml
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Interactions.xml
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Xml.Serialization.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Xml.Serialization.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Xml.Serialization.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Windows.Controls.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Windows.Controls.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Windows.Controls.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Windows.Controls.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Windows.Controls.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Windows.Controls.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\ResolveAssemblyReference.cache
+F:\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\App.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.g.resources
+F:\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.pdb
+F:\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\XapCacheFile.xml
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\AppManifest.xaml
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\favicon.ico
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.pdb
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.xap
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\TestPage.html
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.pdb
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.xml
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\App.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.g.resources
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.pdb
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\XapCacheFile.xml
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\AppManifest.xaml
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\favicon.ico
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.pdb
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.xap
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\TestPage.html
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.Runtime.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.pdb
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.xml
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\en\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Runtime.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\App.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.g.resources
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\SilverlightPrototype1.pdb
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\obj\Debug\XapCacheFile.xml

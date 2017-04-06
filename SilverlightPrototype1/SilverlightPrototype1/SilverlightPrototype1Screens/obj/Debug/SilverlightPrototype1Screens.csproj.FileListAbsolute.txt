@@ -1,0 +1,81 @@
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.pdb
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.g.resources
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.dll
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.pdb
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 2.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 3.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 4.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_6.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 10.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_7.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 5.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 6.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 7.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 8.g.cs
+C:\Users\О\Documents\Expression\Blend 3\Projects\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 9.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.pdb
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\ResolveAssemblyReference.cache
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 10.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_6.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_7.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 2.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 3.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 4.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 6.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 7.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 8.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 9.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.g.resources
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.dll
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.pdb
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_1.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_2.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 2_1.g.cs
+F:\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 3_1.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.pdb
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 10.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_1.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_2.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_6.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_7.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 2.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 2_1.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 3.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 3_1.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 4.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 6.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 7.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 8.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 9.g.cs
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.g.resources
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.dll
+C:\Users\О\Desktop\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.pdb
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.pdb
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 10.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_1.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_2.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_6.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_7.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 2.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 2_1.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 3.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 3_1.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 4.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 6.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 7.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 8.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 9.g.cs
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.g.resources
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.dll
+C:\Users\О\Desktop\1\2\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.pdb

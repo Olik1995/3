@@ -1,0 +1,21 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:pb="clr-namespace:Microsoft.Expression.Prototyping.Behavior;assembly=Microsoft.Expression.Prototyping.Interactivity"
+	x:Class="SilverlightPrototype1Screens.Screen_2"
+	Width="673" Height="506">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<Image Source="sketches/3.PNG" Stretch="Fill"/>
+		<Rectangle Fill="White" Stroke="Black" Height="25" HorizontalAlignment="Right" Margin="0,0,21,18" VerticalAlignment="Bottom" Width="130" Opacity="0">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<pb:NavigateBackAction/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Rectangle>
+	</Grid>
+</UserControl>
